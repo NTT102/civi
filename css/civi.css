@@ -1,0 +1,33 @@
+body, .avatar, div, h1, h4, img, h3
+ {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+}
+
+.avatar img{
+    width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
+
+.avatar {
+    text-align: center;
+	padding: 20px 0;
+}
+
+.avatar h1 {
+    font-size: 32px;
+	text-transform: uppercase;
+	margin: 25px 0 0;
+}
+
+.avatar h4 {
+        font-size: 22px;
+}
+
+table {
+	font-size: 18px;
+}
